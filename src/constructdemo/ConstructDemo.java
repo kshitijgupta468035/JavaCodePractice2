@@ -12,4 +12,8 @@ public class ConstructDemo {
     public int getNumber() {   //getters
         return number;
     }
+
+    public void setNumber(int number) {  //setters
+        this.number = number;
+    }
 }
