@@ -8,4 +8,8 @@ public class ConstructDemo {
         number = n;
         name = s;
     }
+
+    public int getNumber() {   //getters
+        return number;
+    }
 }
