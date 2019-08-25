@@ -16,4 +16,8 @@ public class ConstructDemo {
     public void setNumber(int number) {  //setters
         this.number = number;
     }
+
+    public String getName() {
+        return name;
+    }
 }
